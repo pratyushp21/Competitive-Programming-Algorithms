@@ -44,6 +44,5 @@ int32_t main()
    cout<<set_bit_fast(n)<<endl;
    //built in method in c++
    cout<<__builtin_popcount(n)<<endl;
-  
 return 0;
 }
