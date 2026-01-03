@@ -3,7 +3,6 @@ using namespace std;
 #define ll long long
 #define endl "\n"
 #define MAX 1e9+7
-#define MIN -1e9-7
 #define mem memset(a, 0, sizeof(a))
 #define pb push_back
 
